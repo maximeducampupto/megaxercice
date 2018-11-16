@@ -10,9 +10,9 @@ div.innerHTML  = d;
 
 let prenom = "John", nom = "Doe", age = 35;
 
-alert(w * z);
-alert(w / 2);
-alert((w + z) % 9);
+alert(d * z);
+alert(d / 2);
+alert(d % 9);
 
 let k = 5, l = 3 * k;
 
